@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @benjp009
-- 👀 I’m interested in being a <b>superhero</b>
-- 🌱 I’m currently learning how to have <b>superpowers</b>
-- 💞️ I’m looking to collaborate on <b>saving the world</b>
-- 📫 How to reach me : Light in the sky
 
-<!---
-benjp009/benjp009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Hi, I'm Benjamin! 
+  <p>Remote Full-stack web developer ready foradveture</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminpatin/)](https://www.linkedin.com/in/benjaminpatin/)
+
+### A little more about me...  
+
+```javascript
+const benjaminPatin = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, React,],
+  askMeAbout: [Sea, Sun, song],
+  challenge: "I am learning new techniques everyday",
+  funFacts: ['I have 2+ years of remote work experience with devs 
+  from all over the world', 
+}
+```
+
+<p>You can check out my portfolio <a href="https://benjaminpatin.netlify.app">here</a>
