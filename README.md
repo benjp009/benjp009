@@ -1,8 +1,6 @@
 
-<h2> Hi, I'm Benjamin! 
+<h2> Hi, I'm Benjamin! </h2>
   <p>Remote Full-stack web developer ready foradveture</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminpatin/)](https://www.linkedin.com/in/benjaminpatin/)
 
 ### A little more about me...  
 
