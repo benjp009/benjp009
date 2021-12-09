@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Benjamin! </h2>
-  <p>Remote Full-stack web developer ready foradveture</p>
+  <i>Remote Full-stack web developer ready for an adventure</i>
 
 ### A little more about me...  
 
