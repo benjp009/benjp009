@@ -16,4 +16,6 @@ const benjaminPatin = {
 }
 ```
 
-<p>You can check out my portfolio <a href="https://benjaminpatin.netlify.app">here</a>
+<p>You can check out my portfolio <a href="https://benjaminpatin.netlify.app">here</a></p>
+
+<p>You can reach out to me by <a href="mailto:thelaowaientrepreneur@gmail.com">email</a> to schedule a appointment</p>
